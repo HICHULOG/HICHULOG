@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&&color=0:2e80ec,100:D7E4FB&height=200&section=header&text=HICHULOG&fontSize=50&fontColor=373D49&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=0:2e80ec,100:D7E4FB&height=200&section=header&text=HICHULOG&fontSize=50&fontColor=4C71F2&fontAlign=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHICHULOG&count_bg=%237096D1&title_bg=%23081F5C&icon=&icon_color=%23EDF1F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![GitHub followers](https://img.shields.io/github/followers/HICHULOG)
