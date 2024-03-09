@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHICHULOG&count_bg=%237096D1&title_bg=%23081F5C&icon=&icon_color=%23EDF1F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![GitHub followers](https://img.shields.io/github/followers/HICHULOG)
 
-<div align="center">
+<div align="justify">
     <h3> Hello, I'm HICHULOG :) </h3>
     <p>
         HICHU + LOG = HICHULOG, Log는 기록을 의미합니다.
