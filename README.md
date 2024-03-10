@@ -18,6 +18,7 @@
 </div>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HICHULOG"/>
 ### My GitHub Stats
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=HICHULOG&show_icons=true)
 
