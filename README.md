@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=0:2e80ec,100:D7E4FB&height=200&section=header&text=HICHULOG&fontSize=50&fontColor=222222&fontAlign=50)
 
 <div>
-    <a href="mailto:itchu92@gmail.com"><img src="https://img.shields.io/badge/itchu92@gmail.com-4C71F2?style=flat-square&logo=Gmail&logoColor=20C997"/></a>
+    <a href="mailto:itchu92@gmail.com"><img src="https://img.shields.io/badge/itchu92@gmail.com-4C71F2?&logo=Gmail&logoColor=white"/></a>
     <a href="https://velog.io/@hichulog"><img src="https://img.shields.io/badge/hichu.log-20C997?logo=velog&logoColor=fff9f0&labelColor=20C997"/></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHICHULOG&count_bg=%232E80EC&title_bg=%23222222&icon=&icon_color=%23D7E4FB&title=hits&edge_flat=false"/></a>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HICHULOG">
