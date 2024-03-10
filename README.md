@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=0:2e80ec,100:D7E4FB&height=200&section=header&text=HICHULOG&fontSize=50&fontColor=222222&fontAlign=50)
 
-<div align="justify">
+<div align="justify" width="100%">
     <span>
     <a href="mailto:itchu92@gmail.com"><img src="https://img.shields.io/badge/itchu92@gmail.com-4C71F2?&logo=Gmail&logoColor=white"/></a>
     <a href="https://velog.io/@hichulog"><img src="https://img.shields.io/badge/hichu.log-20C997?logo=velog&logoColor=fff9f0&labelColor=20C997"/></a>
