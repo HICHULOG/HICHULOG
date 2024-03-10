@@ -18,10 +18,11 @@
 </div>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HICHULOG"/>
-### My GitHub Stats
-![githubBanner](https://github-readme-stats.vercel.app/api?username=HICHULOG&show_icons=true)
 
+### My GitHub Stats
+
+![githubBanner](https://github-readme-stats.vercel.app/api?username=HICHULOG&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HICHULOG"/>
 <!--
 **HICHULOG/HICHULOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
