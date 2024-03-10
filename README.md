@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=0:2e80ec,100:D7E4FB&height=200&section=header&text=HICHULOG&fontSize=50&fontColor=222222&fontAlign=50)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHICHULOG&count_bg=%237096D1&title_bg=%23081F5C&icon=&icon_color=%23EDF1F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![GitHub followers](https://img.shields.io/github/followers/HICHULOG)
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/hichu.log-20C997?logo=velog&logoColor=fff9f0&labelColor=20C997&link=https%3A%2F%2Fvelog.io%2F%40hichulog%2Fposts">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHICHULOG&count_bg=%232E80EC&title_bg=%23222222&icon=&icon_color=%23D7E4FB&title=hits&edge_flat=false"/></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/HICHULOG">
+</div>
 
 <div align="justify">
     <h3> Hello, I'm HICHULOG :) </h3>
