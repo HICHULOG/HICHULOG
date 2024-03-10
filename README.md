@@ -20,8 +20,9 @@
 ---
 
 ### My GitHub Stats
-
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=HICHULOG&show_icons=true)
+
+### My Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HICHULOG"/>
 <!--
 **HICHULOG/HICHULOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
